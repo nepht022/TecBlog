@@ -1,0 +1,122 @@
+/**** TUDO ****/
+*{
+    margin:0px;
+    padding:0px;
+}
+
+
+/**** TELA ****/
+body{
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background:rgb(144, 233, 184);
+}
+
+
+/**** AREA DO CABEÇALHO ****/
+#header{
+    padding:20px 30px 30px 30px;
+    text-align: center;
+    background: rgb(43, 42, 42);
+    color: white;
+}
+#logo{
+    margin-bottom:20px;
+}
+
+
+/**** AREA PRINCIPAL ****/
+#main{
+    width: 920px;
+    margin: 0 auto;
+    padding: 15px 0;
+}
+/**** AREA PRINCIPAL - POSTAGEM ****/
+#postagem{
+    width: 660px;
+    float:left;
+    margin-right:20px;
+}
+.postagem-exemplo{
+    padding: 20px 0;
+    margin-bottom:20px;
+}
+/**** AREA PRINCIPAL - LATERAL ****/
+#lateral{
+    width: 240px;
+    float:right;
+}
+/**** AREA PRINCIPAL - FOOTER ****/
+#footer{
+    clear:both;
+    padding:15px;
+    text-align:center;
+    font-weight: bold;
+    color:white;
+    background:rgb(43, 42, 42);
+}
+
+
+/**** PADRAO PARA LINKS ****/
+a{
+    text-decoration: none;
+}
+a:link, a:visited{
+    color:black;
+    font-weight: 600;
+}
+a:hover{
+    text-decoration:underline;
+}
+
+/**** AREA DO CABEÇALHO ****/
+#tec{
+    color:rgb(144, 233, 184);
+}
+h1{
+    font-size:3em;
+}
+#menu a{
+    padding: 5px 15px;
+}
+#menu a:link, #menu a:visited{
+    color:white;
+}
+#menu a:hover{
+    color:rgb(144, 233, 184);
+    font-weight:800;
+    text-decoration: none;
+}
+
+/**** AREA PRINCIPAL ****/
+h2{
+    color:black;
+}
+.data-postagem{
+    font-size: 0.8em;
+    color:black;
+    display:block;
+    margin-bottom:20px;
+}
+.postagem-exemplo p, .conteudo-lateral-exemplo{
+    padding:10px 0 5px 0;
+    color:rgb(71, 69, 69);
+}
+
+/**** AREA LATERAL ****/
+h3{
+    background: rgb(117, 114, 114);
+    padding: 5px;
+    color: white;
+    text-align:center;
+}
+.lateral-exemplo{
+    padding: 10px 0;
+    margin-bottom:20px; 
+}
+.conteudo-lateral-exemplo{
+    font-size: 0.9em;
+}
+.conteudo-lateral-exemplo a{
+    padding-bottom: 5px;
+}
