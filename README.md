@@ -5,7 +5,7 @@
 <p align="center">Preview da página inicial (Zoom: 85%)</p>
 <img src="./imagens/TecBlog-Preview.png">
 
-[Clique AQUI para acessar](https://nepht022.github.io/TecBlog/)
+[Clique AQUI para acessar](https://nepht022.github.io/TecBlog/home.html)
 
 ## Ferramentas
 
