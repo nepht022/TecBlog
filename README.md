@@ -2,7 +2,7 @@
 
 <p align="center">Sobre um site de tecnologia</p>
 
-<p align="center">Preview da página inicial (Zoom: 75%)</p>
+<p align="center">Preview da página inicial (Zoom: 85%)</p>
 <img src="./imagens/TecBlog-Preview.png">
 
 [Clique AQUI para acessar](https://nepht022.github.io/Wetyc/)
